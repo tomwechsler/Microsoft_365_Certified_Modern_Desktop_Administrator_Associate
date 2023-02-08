@@ -1,1 +1,1 @@
-https://learn.microsoft.com/de-de/certifications/exams/md-100
+https://learn.microsoft.com/en-us/certifications/exams/md-100
