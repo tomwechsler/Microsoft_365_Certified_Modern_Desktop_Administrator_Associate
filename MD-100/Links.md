@@ -28,3 +28,14 @@ https://learn.microsoft.com/en-us/training/paths/support-windows-client-environm
 https://learn.microsoft.com/en-us/training/paths/troubleshoot-windows-client-operating-system-apps/
 
 https://learn.microsoft.com/en-us/training/paths/troubleshoot-hardware-drivers/
+
+More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
+-------------------
+
+**Install and configure Windows**
+
+**Configure and manage connectivity and storage**
+
+**Maintain Windows**
+
+**Protect devices and data**
