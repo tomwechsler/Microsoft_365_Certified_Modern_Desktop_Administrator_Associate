@@ -59,28 +59,6 @@ https://learn.microsoft.com/en-us/windows/apps/design/app-settings/guidelines-fo
 
 https://learn.microsoft.com/en-us/powershell/scripting/samples/managing-services
 
-https://learn.microsoft.com/en-us/windows/security/identity-protection/access-control/local-accounts
-
-https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview
-
-https://learn.microsoft.com/en-us/azure/active-directory/devices/device-management-azure-portal
-
-https://support.microsoft.com/en-us/windows/windows-sign-in-options-and-account-protection-7b34d4cf-794f-f6bd-ddcc-e73cdf1a6fbf
-
-https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/how-to-configure-security-policy-settings
-
-https://learn.microsoft.com/en-us/troubleshoot/windows-client/group-policy/use-settings-app-group-policy
-
-https://learn.microsoft.com/en-us/windows/client-management/manage-settings-app-with-group-policy
-
-https://learn.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-overview
-
-https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/windows-firewall-with-advanced-security-administration-with-windows-powershell
-
-https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-bitlocker
-
-https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-security-center-antivirus
-
 **Configure and manage connectivity and storage**
 https://support.microsoft.com/en-us/windows/change-tcp-ip-settings-bd0a07af-15f5-cd6a-363f-ca2b6f391ace
 
@@ -148,3 +126,48 @@ https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/en
 https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-allow-access
 
 **Protect devices and data**
+https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/understanding-malware
+
+https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/windows-firewall-with-advanced-security
+
+https://learn.microsoft.com/en-us/windows/security/information-protection/bitlocker/bitlocker-overview
+
+https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/gathering-information-about-your-current-network-infrastructure
+
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint
+
+https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-security-configuration-framework/windows-security-baselines
+
+https://learn.microsoft.com/en-us/windows/security/identity-protection/access-control/local-accounts
+
+https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview
+
+https://learn.microsoft.com/en-us/azure/active-directory/devices/device-management-azure-portal
+
+https://support.microsoft.com/en-us/windows/windows-sign-in-options-and-account-protection-7b34d4cf-794f-f6bd-ddcc-e73cdf1a6fbf
+
+https://learn.microsoft.com/en-us/windows/security/threat-protection/security-policy-settings/how-to-configure-security-policy-settings
+
+https://learn.microsoft.com/en-us/troubleshoot/windows-client/group-policy/use-settings-app-group-policy
+
+https://learn.microsoft.com/en-us/windows/client-management/manage-settings-app-with-group-policy
+
+https://learn.microsoft.com/en-us/windows/security/identity-protection/user-account-control/user-account-control-overview
+
+https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/windows-firewall-with-advanced-security-administration-with-windows-powershell
+
+https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem-bitlocker
+
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-security-center-antivirus
+
+https://learn.microsoft.com/en-us/windows-server/identity/laps/laps-overview
+
+https://learn.microsoft.com/en-us/windows-server/identity/laps/laps-concepts
+
+https://learn.microsoft.com/en-us/windows-server/identity/laps/laps-scenarios-azure-active-directory
+
+https://learn.microsoft.com/en-us/windows-server/identity/laps/laps-scenarios-windows-server-active-directory
+
+https://learn.microsoft.com/en-us/defender-for-identity/security-assessment-laps
+
+https://www.microsoft.com/en-us/download/details.aspx?id=46899
