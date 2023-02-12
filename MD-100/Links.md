@@ -101,5 +101,50 @@ https://support.microsoft.com/en-us/office/sync-files-with-onedrive-in-windows-6
 https://learn.microsoft.com/en-us/sharepoint/onedrive-overview
 
 **Maintain Windows**
+https://support.microsoft.com/en-us/windows/recovery-options-in-windows-31ce2444-7de3-818c-d626-e3b5a3024da5
+
+https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/windows-startup-issues-troubleshooting
+
+https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/windows-boot-issues-troubleshooting
+
+https://learn.microsoft.com/en-us/windows/win32/sr/restore-points
+
+https://support.microsoft.com/en-us/windows/create-a-system-restore-point-77e02e2a-3298-c869-9974-ef5658ea3be9
+
+https://support.microsoft.com/en-us/topic/how-to-remove-all-system-restore-points-except-the-most-recent-one-d43d697b-09ac-bef6-8a02-1000a18a9b82
+
+https://learn.microsoft.com/en-us/troubleshoot/windows-client/deployment/windows-update-issues-troubleshooting
+
+https://learn.microsoft.com/en-us/windows/deployment/update/waas-overview
+
+https://learn.microsoft.com/en-us/windows/deployment/update/waas-wu-settings
+
+https://learn.microsoft.com/en-us/windows/deployment/update/create-deployment-plan
+
+https://learn.microsoft.com/en-us/windows/deployment/update/waas-servicing-strategy-windows-10-updates
+
+https://learn.microsoft.com/en-us/windows/deployment/update/waas-manage-updates-wufb
+
+https://learn.microsoft.com/en-us/windows/deployment/update/waas-configure-wufb
+
+https://learn.microsoft.com/en-us/windows/client-management/manage-windows-10-in-your-organization-modern-management
+
+https://learn.microsoft.com/en-us/windows-server/manage/windows-admin-center/overview
+
+https://support.microsoft.com/en-us/windows/solve-pc-problems-remotely-with-remote-assistance-and-easy-connect-cf384ff4-6269-d86e-bcfe-92d72ed55922
+
+https://support.microsoft.com/en-us/windows/solve-pc-problems-over-a-remote-connection-b077e31a-16f4-2529-1a47-21f6a9040bf3
+
+https://learn.microsoft.com/en-us/windows/client-management/quick-assist
+
+https://learn.microsoft.com/en-us/windows/win32/winrm/using-windows-remote-management
+
+https://learn.microsoft.com/en-us/windows/win32/winrm/obtaining-data-from-a-remote-computer
+
+https://learn.microsoft.com/en-us/powershell/scripting/learn/remoting/running-remote-commands
+
+https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/enable-psremoting
+
+https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-allow-access
 
 **Protect devices and data**
