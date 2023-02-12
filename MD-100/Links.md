@@ -82,6 +82,23 @@ https://learn.microsoft.com/en-us/windows-hardware/design/device-experiences/oem
 https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-security-center-antivirus
 
 **Configure and manage connectivity and storage**
+https://support.microsoft.com/en-us/windows/change-tcp-ip-settings-bd0a07af-15f5-cd6a-363f-ca2b6f391ace
+
+https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager
+
+https://support.microsoft.com/en-us/windows/fix-network-connection-issues-in-windows-166a28c4-14c1-bdb1-473c-09c1571455d8
+
+https://learn.microsoft.com/en-us/troubleshoot/windows-client/networking/networking-overview
+
+https://learn.microsoft.com/en-us/iis/web-hosting/configuring-servers-in-the-windows-web-platform/configuring-share-and-ntfs-permissions
+
+https://support.microsoft.com/en-us/windows/free-up-drive-space-in-windows-a18fae02-a0fa-8df9-9838-8970f9939de4
+
+https://learn.microsoft.com/en-us/powershell/module/storage/optimize-volume
+
+https://support.microsoft.com/en-us/office/sync-files-with-onedrive-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49
+
+https://learn.microsoft.com/en-us/sharepoint/onedrive-overview
 
 **Maintain Windows**
 
