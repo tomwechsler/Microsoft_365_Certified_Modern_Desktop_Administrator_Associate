@@ -33,5 +33,66 @@ More helpful information directly from Microsoft, divided into the functional gr
 **Manage compliance policies and configuration profiles**  
 
 **Manage, maintain, and protect devices**  
+https://learn.microsoft.com/de-de/mem/intune/enrollment/windows-enroll
+
+https://learn.microsoft.com/en-us/mem/intune/fundamentals/licenses
+
+https://learn.microsoft.com/en-us/mem/intune/fundamentals/licenses-assign
+
+https://learn.microsoft.com/de-de/mem/autopilot/add-devices
+
+https://learn.microsoft.com/de-de/mem/autopilot/enrollment-autopilot
+
+https://learn.microsoft.com/de-de/mem/intune/configuration/device-profile-create
+
+https://learn.microsoft.com/de-de/mem/intune/enrollment/ios-enroll
+
+https://learn.microsoft.com/de-de/mem/intune/enrollment/device-enrollment-manager-enroll
+
+https://learn.microsoft.com/de-de/mem/intune/enrollment/windows-enroll
+
+https://learn.microsoft.com/de-de/mem/intune/enrollment/device-enrollment-program-enroll-ios
+
+https://learn.microsoft.com/en-us/mem/intune/remote-actions/device-inventory
+
+https://learn.microsoft.com/en-us/mem/intune/developer/reports-nav-create-intune-reports
+
+https://learn.microsoft.com/en-us/mem/intune/enrollment/enrollment-restrictions-set
+
+https://learn.microsoft.com/en-us/mem/intune/enrollment/enrollment-options
+
+https://learn.microsoft.com/en-us/mem/intune/enrollment/device-enrollment-manager-enroll
+
+https://learn.microsoft.com/en-us/mem/intune/enrollment/windows-enroll
+
+https://learn.microsoft.com/en-us/mem/intune/remote-actions/devices-wipe
+
+https://learn.microsoft.com/en-us/mem/intune/remote-actions/device-remote-lock
+
+https://learn.microsoft.com/en-us/mem/analytics/overview
+
+https://learn.microsoft.com/en-us/mem/intune/apps/apps-add
+
+https://learn.microsoft.com/en-us/mem/intune/protect/compliance-policy-monitor
+
+https://learn.microsoft.com/en-us/mem/intune/fundamentals/what-is-intune
+
+https://learn.microsoft.com/en-us/mem/intune/protect/windows-update-settings
+
+https://learn.microsoft.com/en-us/azure/active-directory/roles/permissions-reference
+
+https://learn.microsoft.com/en-us/mem/intune/fundamentals/monitor-audit-logs
+
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/configure-endpoints-gp
+
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/microsoft-defender-endpoint-mac
+
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/mac-install-with-other-mdm
+
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/mac-install-manually
+
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/linux-install-with-puppet
+
+https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/linux-install-with-ansible
 
 **Manage apps**  
