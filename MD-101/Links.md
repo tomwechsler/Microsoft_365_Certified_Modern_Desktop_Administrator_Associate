@@ -1,4 +1,4 @@
-Exam MD-100: Windows Client
+Exam MD-101: Managing Modern Desktops
 -------------------
 https://learn.microsoft.com/en-us/certifications/exams/md-101
 
@@ -23,3 +23,15 @@ https://learn.microsoft.com/en-us/training/paths/deploy-use-premises-based-tools
 https://learn.microsoft.com/en-us/training/paths/deploy-use-cloud-based-tools/
 
 https://learn.microsoft.com/en-us/training/paths/manage-updates-use-analytics/
+
+More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
+-------------------
+**Deploy Windows client**  
+
+**Manage identity and access**  
+
+**Manage compliance policies and configuration profiles**  
+
+**Manage, maintain, and protect devices**  
+
+**Manage apps**  
