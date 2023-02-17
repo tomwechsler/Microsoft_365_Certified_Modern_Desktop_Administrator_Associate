@@ -113,8 +113,60 @@ https://learn.microsoft.com/en-us/windows/deployment/deploy-windows-mdt/get-star
 
 https://learn.microsoft.com/en-us/windows/deployment/deploy-windows-mdt/deploy-a-windows-10-image-using-mdt
 
-
 **Manage identity and access**  
+https://learn.microsoft.com/en-us/azure/active-directory/roles/permissions-reference
+
+https://learn.microsoft.com/en-us/azure/active-directory/roles/groups-concept
+
+https://learn.microsoft.com/en-us/azure/active-directory/devices/assign-local-admin
+
+https://learn.microsoft.com/en-us/azure/active-directory/roles/administrative-units
+
+https://learn.microsoft.com/en-us/azure/active-directory/devices/overview
+
+https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/concept-fundamentals-security-defaults
+
+https://learn.microsoft.com/en-us/azure/active-directory/devices/enterprise-state-roaming-enable
+
+https://learn.microsoft.com/en-gb/azure/active-directory/conditional-access/overview
+
+https://learn.microsoft.com/en-us/mem/intune/protect/create-conditional-access-intune
+
+https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policies
+
+https://learn.microsoft.com/en-us/mem/intune/protect/endpoint-security
+
+https://learn.microsoft.com/en-us/security/compass/privileged-access-accounts
+
+https://learn.microsoft.com/en-us/azure/active-directory/devices/enterprise-state-roaming-enable
+
+https://www.microsoft.com/en-us/licensing/product-licensing/enterprise-mobility-security
+
+https://learn.microsoft.com/en-us/deployedge/microsoft-edge-enterprise-state-roaming
+
+https://learn.microsoft.com/en-us/azure/active-directory/devices/enterprise-state-roaming-windows-settings-reference
+
+https://learn.microsoft.com/en-us/deployedge/microsoft-edge-enterprise-state-roaming
+
+https://learn.microsoft.com/en-us/azure/active-directory/devices/enterprise-state-roaming-faqs
+
+https://learn.microsoft.com/en-us/partner-center/autopilot
+
+https://learn.microsoft.com/en-us/windows/configuration/provisioning-packages/provision-pcs-for-initial-deployment
+
+https://social.technet.microsoft.com/wiki/contents/articles/17804.map-toolkit-how-to-implement-the-phased-approach.aspx
+
+https://learn.microsoft.com/en-us/windows-hardware/get-started/adk-install
+
+https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/hh831764(v=ws.11)
+
+https://learn.microsoft.com/en-us/powershell/module/msonline/new-msoluser?view=azureadps-1.0
+
+https://learn.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-conditions
+
+https://learn.microsoft.com/en-us/azure/active-directory/devices/enterprise-state-roaming-troubleshooting
+
+https://learn.microsoft.com/en-us/mem/intune/remote-actions/device-sync
 
 **Manage compliance policies and configuration profiles**  
 
