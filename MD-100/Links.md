@@ -32,7 +32,7 @@ https://learn.microsoft.com/en-us/training/paths/troubleshoot-hardware-drivers/
 More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
 -------------------
 
-**Install and configure Windows**  
+**Install and configure Windows:**  
 https://learn.microsoft.com/en-us/windows/deployment/windows-deployment-scenarios-and-tools
 
 https://learn.microsoft.com/en-us/windows-hardware/get-started/adk-offline-install
@@ -59,7 +59,7 @@ https://learn.microsoft.com/en-us/windows/apps/design/app-settings/guidelines-fo
 
 https://learn.microsoft.com/en-us/powershell/scripting/samples/managing-services
 
-**Configure and manage connectivity and storage**  
+**Configure and manage connectivity and storage:**  
 https://support.microsoft.com/en-us/windows/change-tcp-ip-settings-bd0a07af-15f5-cd6a-363f-ca2b6f391ace
 
 https://learn.microsoft.com/en-us/windows-hardware/drivers/mobilebroadband/understanding-and-configuring-windows-connection-manager
@@ -78,7 +78,7 @@ https://support.microsoft.com/en-us/office/sync-files-with-onedrive-in-windows-6
 
 https://learn.microsoft.com/en-us/sharepoint/onedrive-overview
 
-**Maintain Windows**  
+**Maintain Windows:**  
 https://support.microsoft.com/en-us/windows/recovery-options-in-windows-31ce2444-7de3-818c-d626-e3b5a3024da5
 
 https://learn.microsoft.com/en-us/troubleshoot/windows-client/performance/windows-startup-issues-troubleshooting
@@ -125,7 +125,7 @@ https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/en
 
 https://learn.microsoft.com/en-us/windows-server/remote/remote-desktop-services/clients/remote-desktop-allow-access
 
-**Protect devices and data**  
+**Protect devices and data:**  
 https://learn.microsoft.com/en-us/microsoft-365/security/intelligence/understanding-malware
 
 https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/windows-firewall-with-advanced-security
