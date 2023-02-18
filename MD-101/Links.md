@@ -26,7 +26,7 @@ https://learn.microsoft.com/en-us/training/paths/manage-updates-use-analytics/
 
 More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
 -------------------
-**Deploy Windows client**  
+**Deploy Windows client:**  
 https://learn.microsoft.com/en-us/windows/configuration/provisioning-packages/provisioning-script-to-install-app
 
 https://learn.microsoft.com/en-us/windows/configuration/provisioning-packages/provision-pcs-with-apps
@@ -113,7 +113,7 @@ https://learn.microsoft.com/en-us/windows/deployment/deploy-windows-mdt/get-star
 
 https://learn.microsoft.com/en-us/windows/deployment/deploy-windows-mdt/deploy-a-windows-10-image-using-mdt
 
-**Manage identity and access**  
+**Manage identity and access:**  
 https://learn.microsoft.com/en-us/azure/active-directory/roles/permissions-reference
 
 https://learn.microsoft.com/en-us/azure/active-directory/roles/groups-concept
@@ -168,7 +168,7 @@ https://learn.microsoft.com/en-us/azure/active-directory/devices/enterprise-stat
 
 https://learn.microsoft.com/en-us/mem/intune/remote-actions/device-sync
 
-**Manage compliance policies and configuration profiles**  
+**Manage compliance policies and configuration profiles:**  
 https://learn.microsoft.com/en-us/mem/intune/protect/device-compliance-get-started
 
 https://learn.microsoft.com/en-us/mem/intune/protect/create-compliance-policy
@@ -257,7 +257,7 @@ https://learn.microsoft.com/en-us/sharepoint/configure-sync-intune
 
 https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/deploy-oma-uris-to-target-csp-via-intune
 
-**Manage, maintain, and protect devices**  
+**Manage, maintain, and protect devices:**  
 https://learn.microsoft.com/de-de/mem/intune/enrollment/windows-enroll
 
 https://learn.microsoft.com/en-us/mem/intune/fundamentals/licenses
