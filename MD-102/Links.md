@@ -5,6 +5,9 @@ https://learn.microsoft.com/en-us/certifications/exams/md-102
 **Study Guide**  
 https://learn.microsoft.com/en-us/certifications/resources/study-guides/md-102
 
+**Demo the exam experience by visiting exam sandbox**  
+https://aka.ms/examdemo
+
 Microsoft Learn:
 -------------------
 https://learn.microsoft.com/en-us/training/paths/explore-endpoint-management/
