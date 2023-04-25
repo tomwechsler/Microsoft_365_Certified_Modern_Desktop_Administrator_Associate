@@ -76,7 +76,7 @@ https://learn.microsoft.com/en-us/windows/win32/winrm/installation-and-configura
 
 https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/enable-psremoting
 
-**Manage identity and compliance**  
+**Manage identity and compliance:**  
 
 https://learn.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-identity-verification
 
@@ -108,7 +108,7 @@ https://learn.microsoft.com/en-us/mem/intune/protect/compliance-policy-monitor
 
 https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/troubleshoot-policies-in-microsoft-intune
 
-**Manage, maintain, and protect devices**  
+**Manage, maintain, and protect devices:**  
 
 https://learn.microsoft.com/en-us/mem/intune/fundamentals/deployment-guide-enrollment
 
@@ -208,7 +208,7 @@ https://learn.microsoft.com/en-us/microsoft-365/security/defender/microsoft-365-
 
 https://learn.microsoft.com/en-us/microsoft-365/security/defender-endpoint/threat-protection-reports
 
-**Manage applications**  
+**Manage applications:**  
 
 https://learn.microsoft.com/en-us/mem/intune/apps/apps-deploy
 
