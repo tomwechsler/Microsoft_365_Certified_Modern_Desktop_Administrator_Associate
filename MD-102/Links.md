@@ -75,6 +75,36 @@ https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/en
 
 **Manage identity and compliance**  
 
+https://learn.microsoft.com/en-us/windows/security/identity-protection/hello-for-business/hello-identity-verification
+
+https://learn.microsoft.com/en-us/mem/intune/fundamentals/role-based-access-control
+
+https://learn.microsoft.com/en-us/azure/active-directory/devices/concept-azure-ad-join
+
+https://learn.microsoft.com/en-us/azure/active-directory/devices/concept-azure-ad-register
+
+https://learn.microsoft.com/en-us/azure/active-directory/devices/concept-azure-ad-join-hybrid
+
+https://learn.microsoft.com/en-us/azure/active-directory/devices/plan-device-deployment
+
+https://learn.microsoft.com/en-us/mem/autopilot/windows-autopilot-hybrid
+
+https://learn.microsoft.com/en-us/azure/active-directory/devices/assign-local-admin
+
+https://learn.microsoft.com/en-us/windows-server/identity/laps/laps-scenarios-azure-active-directory
+
+https://learn.microsoft.com/en-us/mem/intune/protect/device-compliance-get-started
+
+https://learn.microsoft.com/en-us/mem/intune/protect/quickstart-set-password-length-android
+
+https://learn.microsoft.com/en-us/mem/intune/protect/create-conditional-access-intune
+
+https://learn.microsoft.com/en-us/mem/intune/protect/actions-for-noncompliance
+
+https://learn.microsoft.com/en-us/mem/intune/protect/compliance-policy-monitor
+
+https://learn.microsoft.com/en-us/troubleshoot/mem/intune/device-configuration/troubleshoot-policies-in-microsoft-intune
+
 **Manage, maintain, and protect devices**  
 
 **Manage applications**  
