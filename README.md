@@ -6,3 +6,5 @@ https://techcommunity.microsoft.com/t5/microsoft-learn-blog/evolving-microsoft-3
 
 **Notice:**  
 Both the MD-100 and MD-101 exams will be replaced by the MD-102 exam in May 2023. You will find information on this exam here as well.
+
+The exam MD-102 will be available on May 2, 2023
