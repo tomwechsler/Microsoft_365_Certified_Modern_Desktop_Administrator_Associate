@@ -16,6 +16,16 @@ https://learn.microsoft.com/en-us/training/paths/execute-device-enrollment/
 
 https://learn.microsoft.com/en-us/training/paths/configure-profiles-user-device/
 
+https://learn.microsoft.com/en-us/training/paths/examine-application-management/
+
+https://learn.microsoft.com/en-us/training/paths/authentication-compliance/
+
+https://learn.microsoft.com/en-us/training/paths/manage-endpoint-security/
+
+https://learn.microsoft.com/en-us/training/paths/deploy-on-premise-based-tools/
+
+https://learn.microsoft.com/en-us/training/paths/deploy-cloud-based-tools/
+
 More helpful information directly from Microsoft, divided into the functional groups (Skills measured)!
 -------------------
 **Deploy Windows client:**  
